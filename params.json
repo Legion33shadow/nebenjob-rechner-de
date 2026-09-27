@@ -1,0 +1,21 @@
+{
+  "slug": "nebenjob-rechner-de",
+  "country": "DE",
+  "domain": "labor_tax",
+  "law_reference": "\u00a7 8 SGB IV - Geringf\u00fcgige Besch\u00e4ftigung (538\u20ac / Dynamische Grenze)",
+  "sources": [
+    "https://www.minijob-zentrale.de",
+    "https://www.bundesfinanzministerium.de"
+  ],
+  "sources_health": {
+    "https://www.minijob-zentrale.de": {
+      "status": 200,
+      "reachable": true
+    },
+    "https://www.bundesfinanzministerium.de": {
+      "status": 200,
+      "reachable": true
+    }
+  },
+  "signature_payload": "f35f30db7cca3479b1bdb2e2f8afcc1b462085686f1d1f24d3834b4b822fc8bd"
+}
