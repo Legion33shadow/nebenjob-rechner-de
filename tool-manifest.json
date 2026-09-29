@@ -1,0 +1,13 @@
+{
+  "slug": "nebenjob-rechner-de",
+  "type": "calculator",
+  "country": "DE",
+  "category": "labor_tax",
+  "official_sources": [
+    "https://www.bundesfinanzministerium.de/",
+    "https://www.deutsche-rentenversicherung.de/"
+  ],
+  "claim_state": "method_unverified",
+  "phoenix_ready": false,
+  "limitations": "German side-job rules depend on mini-job status, income and insurance."
+}

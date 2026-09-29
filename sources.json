@@ -1,0 +1,11 @@
+{
+  "tool": "nebenjob-rechner-de",
+  "country": "DE",
+  "category": "labor_tax",
+  "official_sources": [
+    "https://www.bundesfinanzministerium.de/",
+    "https://www.deutsche-rentenversicherung.de/"
+  ],
+  "last_reviewed": "2026-09-28",
+  "source_status": "official_sources_listed_not_formula_verified"
+}
